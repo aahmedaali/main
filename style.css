@@ -5,6 +5,12 @@ body
    background: #000000;
    color: #CCEEFF;
    font-family: sans-serif;
+
+    border-left: 2px solid black;
+    height: 100px;
+    display: inline-block;
+    box-shadow: 2px 0px 2px #888;
+
 }
 
 .aa
