@@ -2,10 +2,9 @@ body
 
 
 {
-   background: #000000;
-   color: #CCEEFF;
-   font-family: sans-serif;
-
+    background: #000000;
+    color: #CCEEFF;
+    font-family: sans-serif;
     border-left: 2px solid black;
     height: 100px;
     display: inline-block;
@@ -15,28 +14,11 @@ body
 
 .aa
 {
-   whidth: 120px;
-   border-radius: 10px;
-
-}
-
-
-
-.ee
-{
-   color: #FFFF00;
-   width: 90%;
-   size: 7px;
-   margin-top: 15px;
-}
-
-.bb
-{
-   color: #FFFF00;
-   text-decoration: none;
-   border: #ccc 2px solid;
-   padding: 10px 20px;
-   border-radius: 10px;
-
+    color: #FFFFFF;
+    font-family: sans-serif;
+    border-left: 2px solid black;
+    height: 100px;
+    display: inline-block;
+    box-shadow: 2px 0px 2px #888;
 
 }
